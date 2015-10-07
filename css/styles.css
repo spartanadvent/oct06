@@ -1,0 +1,37 @@
+br{
+    clear:both;
+  
+}
+
+button{
+    margin-left: 65px;
+}
+
+input{
+    margin: 10px;
+}
+
+#content_container {
+    
+    width: 800px;
+    margin:0 auto;
+    padding: 10px;
+    text-align: center;
+    background-color: lightblue;
+    border: 2px solid black;
+    border-radius:5px;
+}
+li{
+    text-align: left;
+    padding:2px;
+    margin:2px;
+    border:1px solid black;
+    border-radius:4px;
+/*   box-shadow: 5px 5px 2px #888888;*/
+}
+ol {
+    padding-top:4px;
+    padding-bottom:4px;
+    border-radius:4px;
+    
+}
